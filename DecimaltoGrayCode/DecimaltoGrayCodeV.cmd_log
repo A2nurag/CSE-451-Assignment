@@ -1,0 +1,5 @@
+xst -intstyle ise -ifn "D:/ISE/1/DecimaltoGrayCode/DecimaltoGrayCodeV.xst" -ofn "D:/ISE/1/DecimaltoGrayCode/DecimaltoGrayCodeV.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-4 DecimaltoGrayCodeV.ngc DecimaltoGrayCodeV.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o DecimaltoGrayCodeV_map.ncd DecimaltoGrayCodeV.ngd DecimaltoGrayCodeV.pcf 
+par -w -intstyle ise -ol high -t 1 DecimaltoGrayCodeV_map.ncd DecimaltoGrayCodeV.ncd DecimaltoGrayCodeV.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml DecimaltoGrayCodeV.twx DecimaltoGrayCodeV.ncd -o DecimaltoGrayCodeV.twr DecimaltoGrayCodeV.pcf 

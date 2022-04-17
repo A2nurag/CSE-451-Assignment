@@ -1,0 +1,2 @@
+xst -intstyle ise -ifn "D:/ISE/1/BCDtoSevenSegment/BCDtoSevenSegmentCode.xst" -ofn "D:/ISE/1/BCDtoSevenSegment/BCDtoSevenSegmentCode.syr" 
+xst -intstyle ise -ifn "D:/ISE/1/BCDtoSevenSegment/BCDtoSevenSegmentCode.xst" -ofn "D:/ISE/1/BCDtoSevenSegment/BCDtoSevenSegmentCode.syr" 

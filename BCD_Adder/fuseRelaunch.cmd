@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -o "D:/ISE/1/BCD_Adder/BCD_Adder_TB_isim_beh.exe" -prj "D:/ISE/1/BCD_Adder/BCD_Adder_TB_beh.prj" "work.BCD_Adder_TB" "work.glbl" 

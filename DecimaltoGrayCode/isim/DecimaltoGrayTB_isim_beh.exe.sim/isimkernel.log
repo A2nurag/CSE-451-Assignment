@@ -1,0 +1,10 @@
+Command line:
+   DecimaltoGrayTB_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  55784
+
+Sun Apr 17 15:55:20 2022
+
+
+ Elaboration Time: 0.015625 sec

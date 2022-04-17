@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -o "D:/ISE/1/BCDtoSevenSegment/BCDtoSevenSegmentTB_isim_beh.exe" -prj "D:/ISE/1/BCDtoSevenSegment/BCDtoSevenSegmentTB_beh.prj" "work.BCDtoSevenSegmentTB" "work.glbl" 

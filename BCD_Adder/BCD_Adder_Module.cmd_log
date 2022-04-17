@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "D:/ISE/1/BCD_Adder/BCD_Adder_Module.xst" -ofn "D:/ISE/1/BCD_Adder/BCD_Adder_Module.syr" 
